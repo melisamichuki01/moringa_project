@@ -236,3 +236,9 @@ We have a high covariance of 360 which indicates a strong relationship between t
 ```{r}
 plot(timespent_c,internetusage_c, xlab="Daily time spent on site", ylab="Daily Internet Usage")
 ```
+# Conclusion
+Females tend to click on ads more than men
+The group that clicked on the ads more frequently were between the age of 36 to 47 yrs 
+
+# Recommendation
+The client should try and create more youth -friendly programs to entice people between the age of 19-35.
